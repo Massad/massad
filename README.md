@@ -2,8 +2,8 @@
 
 - 🔭  Currently building the awesome app distribution
 
-[<img src="https://user-images.githubusercontent.com/3076722/112645116-98b57c00-8e5f-11eb-80fc-1e8cee712a65.png" width="250">
-](https://testapp.io)
+[<img src="https://assets.testapp.io/badge/2.1.svg" width="200">](https://testapp.io/badges)
+
 
 - 🎉   Some fun facts 
 
