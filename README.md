@@ -11,6 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massad&count_private=true)
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=massad" alt="visitor badge"/> since 16 Sep 2021
 
 <!--
 **Massad/massad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
