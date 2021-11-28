@@ -2,7 +2,7 @@
 
 - 🔭  Currently building the awesome app distribution platform
 
-[<img src="https://assets.testapp.io/badge/2.1.svg" width="200">](https://testapp.io/badges)
+[<img src="https://assets.testapp.io/badge/2.1.svg" width="200">](https://testapp.io)
 
 
 - 🎉   Some fun facts 
