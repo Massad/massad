@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  Currently building the awesome app distribution platform
+- 🔭  Currently building the awesome mobile app distribution platform
 
 [<img src="https://assets.testapp.io/badge/2.1.svg" width="200">](https://testapp.io)
 
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Are you a mobile app developer? Join our [![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/testappio/shared_invite/zt-pvpoj3l2-epGYwGTaV3~3~0f7udNWoA)
